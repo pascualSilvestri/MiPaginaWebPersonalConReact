@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c44039a7.css",
+    "main.js": "/static/js/main.154afe57.js",
+    "static/media/fotoperfil.jpg": "/static/media/fotoperfil.454f0ac69fdbdc8261fb.jpg",
+    "static/media/autonativa1.jpg": "/static/media/autonativa1.129eda183d9e34a18a34.jpg",
+    "static/media/Curriculum_Pascual_programador.pdf": "/static/media/Curriculum_Pascual_programador.165ce14b9f44dcde6763.pdf",
+    "static/media/tienda_virtual.jpg": "/static/media/tienda_virtual.6184bc0facf83bc4c1e6.jpg",
+    "static/media/ASOCIACION.jpg": "/static/media/ASOCIACION.db84e5565f122daac8ac.jpg",
+    "static/media/encriptador1.jpg": "/static/media/encriptador1.9795698f24ca56600d0d.jpg",
+    "static/media/formulario1.jpg": "/static/media/formulario1.1b3f9541cffd0875acb4.jpg",
+    "static/media/img_contacto.jpg": "/static/media/img_contacto.a9f2bc84b3aba34ffec7.jpg",
+    "static/media/ahoracado2.jpg": "/static/media/ahoracado2.dd12c07b01aee33a7f4f.jpg",
+    "static/media/lista_notas2.jpg": "/static/media/lista_notas2.da00140aa69a67da96ad.jpg",
+    "static/media/covensor.jpg": "/static/media/covensor.dc78fe91b785774a0805.jpg",
+    "static/media/portal2.jpg": "/static/media/portal2.d4a8e75c6cd1628c8b48.jpg",
+    "index.html": "/index.html",
+    "main.c44039a7.css.map": "/static/css/main.c44039a7.css.map",
+    "main.154afe57.js.map": "/static/js/main.154afe57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44039a7.css",
+    "static/js/main.154afe57.js"
+  ]
+}
